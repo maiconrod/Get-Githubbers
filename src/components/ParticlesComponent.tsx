@@ -100,7 +100,7 @@ const ParticleComponent = () => {
 
   return (
     <>
-      <div>Olá</div>
+      <div></div>
     </>
   );
 };
